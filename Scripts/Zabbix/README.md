@@ -1,5 +1,7 @@
 # ZABBIX SERVER 6.0
 
+---
+
 - OS: Ubuntu 20.04 ou 22.04
 
 ---
