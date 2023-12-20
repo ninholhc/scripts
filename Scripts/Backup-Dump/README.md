@@ -10,3 +10,9 @@ Deverá ser criado um usuário dumper ou similar com permissões em todas as bas
 Dever ser permitido o localhost como trust no arquivo pg_hba.conf
 # Armazenamento remoto:
 Deverá ser permitido ao usuário root local acessar por SSH, com certificado no host remoto, com o usuário onde será o armazenamento dos dumps
+
+```bash
+git clone https://github.com/ninholhc/scripts.git
+cd scripts/Scripts/Backup-Dump/
+bash bkp-bases.sh
+```
