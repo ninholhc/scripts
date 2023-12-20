@@ -6,5 +6,5 @@ Os scripts desempenham um papel crucial em muitos aspectos da computação moder
 
 ---
 
-## [ZABBIX Script](/Scripts/Zabbix/README.md)
-## [GLPI Script](/Scripts/GLPI/README.md)
+## [ZABBIX 6.0](/Scripts/Zabbix/README.md)
+## [GLPI 10.0](/Scripts/GLPI/README.md)
