@@ -20,3 +20,10 @@ Os scripts desempenham um papel crucial em muitos aspectos da computação moder
 ---
 
 ## [AWS S3]
+
+---
+# Script DOCKER WEB
+---
+
+## [ADMIN DOCKER WEB]
+
