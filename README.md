@@ -1,4 +1,4 @@
-# Scripts de instalação
+Scripts de instalação
 
 ---
 
