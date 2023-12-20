@@ -10,8 +10,7 @@ Os scripts desempenham um papel crucial em muitos aspectos da computação moder
 ## [GLPI 10.0](/Scripts/GLPI/README.md)
 
 ---
-# Scripts de backup
+# Scripts de dumps
 ---
 
-## [POSTGRESQL / MYSQL / MARIADB]
-## [AWS S3]
+## [POSTGRESQL / MYSQL]
