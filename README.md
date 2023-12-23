@@ -19,7 +19,7 @@ Os scripts desempenham um papel crucial em muitos aspectos da computação moder
 # Script AWS S3
 ---
 
-## [AWS S3](/Scripts/Scripts/AWS-S3/README.md)
+## [AWS S3](/Scripts/AWS-S3/README.md)
 
 ---
 # Script DOCKER WEB
