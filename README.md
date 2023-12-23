@@ -13,7 +13,7 @@ Os scripts desempenham um papel crucial em muitos aspectos da computação moder
 # Scripts de dumps
 ---
 
-## [POSTGRESQL / MYSQL]
+## [PostgreSQL/MySQL](/Scripts/Backup-Dump/README.md)
 
 ---
 # Scripts AWS S3
@@ -25,5 +25,5 @@ Os scripts desempenham um papel crucial em muitos aspectos da computação moder
 # Script DOCKER WEB
 ---
 
-## [ADMIN DOCKER WEB]
+## [Admin DOCKER Web](/Scripts/Docker-Admin/README.md)
 
