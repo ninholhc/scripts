@@ -10,16 +10,16 @@ Os scripts desempenham um papel crucial em muitos aspectos da computação moder
 ## [GLPI 10.0](/Scripts/GLPI/README.md)
 
 ---
-# Scripts de dumps
+# Script de dumps
 ---
 
 ## [PostgreSQL/MySQL](/Scripts/Backup-Dump/README.md)
 
 ---
-# Scripts AWS S3
+# Script AWS S3
 ---
 
-## [AWS S3]
+## [AWS S3](/Scripts/AWS-S3/README.md)
 
 ---
 # Script DOCKER WEB
@@ -27,3 +27,9 @@ Os scripts desempenham um papel crucial em muitos aspectos da computação moder
 
 ## [Admin DOCKER Web](/Scripts/Docker-Admin/README.md)
 
+----
+
+### ⚙️ Contato
+
+<p align="center">
+<a href="mailto:aldenizio.ninho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><br />
