@@ -27,6 +27,12 @@ Os scripts desempenham um papel crucial em muitos aspectos da computação moder
 
 ## [Admin DOCKER Web](/Scripts/Docker-Admin/README.md)
 
+---
+# Script GTINFO
+---
+
+## [GTINFO](/Scripts/GTINFO/README.md)
+
 ----
 
 ### ⚙️ Contato
